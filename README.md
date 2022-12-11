@@ -1,4 +1,4 @@
-# Aleo Light Prover
+# Aleo Prover Lite
 
 Forked from HarukaMa/aleo-prover
 

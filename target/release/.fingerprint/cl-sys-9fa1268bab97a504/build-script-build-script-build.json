@@ -1,0 +1,1 @@
+{"rustc":13646863235972240414,"features":"[\"opencl_version_1_2\"]","target":2709041430195671023,"profile":12321446146528634949,"path":5330865268668863836,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/cl-sys-9fa1268bab97a504/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":17920657853368849000,"config":2202906307356721367,"compile_kind":0}

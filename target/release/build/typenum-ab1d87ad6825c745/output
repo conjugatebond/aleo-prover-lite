@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/root/conjugate/aleo-prover-lite/target/release/build/typenum-ab1d87ad6825c745/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/root/conjugate/aleo-prover-lite/target/release/build/typenum-ab1d87ad6825c745/out/op.rs

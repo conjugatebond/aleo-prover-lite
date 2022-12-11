@@ -1,1 +1,0 @@
-Found CUDA paths: ["/usr/local/cuda/lib64", "/usr/local/cuda/lib64/stubs", "/usr/local/cuda/targets/x86_64-linux/lib", "/usr/local/cuda/targets/x86_64-linux/lib/stubs", "/usr/local/cuda-11.7/lib64", "/usr/local/cuda-11.7/lib64/stubs", "/usr/local/cuda-11.7/targets/x86_64-linux/lib", "/usr/local/cuda-11.7/targets/x86_64-linux/lib/stubs"]
